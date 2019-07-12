@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(create_an_array, element)
   array = ["wow", "I", "am", "really", "learning"]
-  puppies.push("labrador")
+  array.push("labrador")
 end
 
 def add_element_to_start_of_array(array, element)
