@@ -10,7 +10,7 @@ def add_element_to_end_of_array(array, element)
   puppies = ["bulldog", "terrier", "poodle", "pitbull"]
   puppies << "labrador"
 end
-p puppies 
+
 def add_element_to_start_of_array(array, element)
   
 end
